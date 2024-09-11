@@ -1,0 +1,1 @@
+This file illustrates how to link remote and local repositories
